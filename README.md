@@ -160,7 +160,7 @@ Take the following data and normalize it into a 3NF database.  You can use the w
 | 2         | Bob  | no    | no           |
 | 3         | Sam  | yes   | no           |
 
--
+---
 
 | pet id | name       | type   | person id |
 |--------|------------|--------|-----------|
